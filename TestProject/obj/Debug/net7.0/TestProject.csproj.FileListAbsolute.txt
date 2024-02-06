@@ -1,0 +1,4 @@
+C:\Users\travist\Documents\GitHub\4a-unityproject-s11246584\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travist\Documents\GitHub\4a-unityproject-s11246584\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\travist\Documents\GitHub\4a-unityproject-s11246584\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\travist\Documents\GitHub\4a-unityproject-s11246584\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
